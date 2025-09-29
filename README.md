@@ -43,3 +43,9 @@ The ETL process is implemented as an Airflow **DAG** with three stages:
 ---
 
 ⚡ With this pipeline, you get a **fully automated system** that fetches, cleans, and stores astronomy data daily—ready for reporting, visualization, or further analysis.  
+
+
+### Airflow server 
+
+![airflow output after triggering the DAG](./images/1.png)
+![airflow output after triggering the DAG](./images/2.png)
