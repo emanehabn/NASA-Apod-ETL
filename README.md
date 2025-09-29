@@ -47,5 +47,5 @@ The ETL process is implemented as an Airflow **DAG** with three stages:
 
 ### Airflow server 
 
-![airflow output after triggering the DAG](./images/1.png)
-![airflow output after triggering the DAG](./images/2.png)
+![airflow output after triggering the DAG](./images/1_.png)
+![airflow output after triggering the DAG](./images/2_.png)
